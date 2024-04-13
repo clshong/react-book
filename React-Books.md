@@ -17,8 +17,4 @@
     - [站点：图解 React 原理系列](https://7kms.github.io/react-illustration-series/)
 - [React 小册](http://huziketang.mangojuice.top/books/react/)
 
-## More links
 
-- [GitHub Home](https://github.com/ShenBao)
-- [Blog Home](https://shenbao.github.io)
-- [About Me](https://shenbao.github.io/about/)
